@@ -1,0 +1,1 @@
+<img src="/img/logo.png" alt="scrum system">
